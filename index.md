@@ -59,6 +59,7 @@
 - [dashboard-patterns](concepts/dashboard-patterns.md) — Dashboard tasarım örüntüleri
 - [deployment-stratejisi](concepts/deployment-stratejisi.md) — Dağıtım stratejisi
 - [multi-agent-yonetimi](concepts/multi-agent-yonetimi.md) — Çoklu ajan yönetimi
+- [hermes-orchestrator-gelisim-plani](concepts/hermes-orchestrator-gelisim-plani.md) — Master gelisim plani: 5 faz, open/closed specialists, 5 kaynak arastirmasi
 
 ## Decisions (Kararlar)
 
