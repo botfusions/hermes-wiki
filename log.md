@@ -2,6 +2,15 @@
 
 > Append-only zaman damgali olay kaydi. En yeni olay en ustte.
 
+## [2026-05-26] create | Master gelisim plani + 5 kaynak arastirmasi
+
+- hermes-orchestrator-gelisim-plani.md olusturuldu (concepts/)
+- 5 kaynak degerlendirmesi kaydedildi (kullanici tanimi, Akshay, Nainsi, Kanika, scraping araclar)
+- Crawl4AI ve Scrapegraph AI gelisim planina eklendi
+- Browser Use zaten var — atlandi
+- 5 fazlik yol haritasi: Routing → Closed Workflows → Orkestrasyon → Otonomi → Kanal Genisleme
+- index.md guncellendi
+
 | Tarih | Olay | Detay |
 |-------|------|-------|
 | 2026-05-26 | decision-009 | Memory → Wiki arşiv kuralı oluşturuldu: %80 dolunca wiki'ye taşı. Zep + Wiki + yerel memory hiyerarşisi tanımlandı. |
