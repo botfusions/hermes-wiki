@@ -1,0 +1,23 @@
+# Hermes Agent Cron Jobs
+# Karpathy self-improvement dongusu zamanlayicilari
+
+daily_performance:
+  schedule: "0 9 * * *"
+  description: "Gunluk performans raporu"
+  action: "wiki'deki son 24 saatlik aktiviteyi analiz et, log.md'ye rapor ekle"
+  target_file: "Hermes_Agent/Hermes-Wiki/log.md"
+  output_file: "Hermes_Agent/Hermes-Wiki/syntheses/daily-report-{date}.md"
+
+weekly_skill_analysis:
+  schedule: "0 10 * * 0"
+  description: "Haftalik skill kullanim analizi"
+  action: "skill kullanim istatistiklerini topla, en az kullanilan 3 skill'i oner"
+  target_file: "Hermes_Agent/memories/skill-usage.md"
+  output_file: "Hermes_Agent/Hermes-Wiki/syntheses/weekly-skill-analysis-{date}.md"
+
+monthly_cleanup:
+  schedule: "0 9 1 * *"
+  description: "Aylik bellek temizligi + lint"
+  action: "wiki'yi lint et, eskimis sayfalari archive'a tası"
+  target_file: "Hermes_Agent/Hermes-Wiki/"
+  output_file: "Hermes_Agent/Hermes-Wiki/syntheses/monthly-lint-{date}.md"
