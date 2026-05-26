@@ -2,6 +2,16 @@
 
 > Append-only zaman damgali olay kaydi. En yeni olay en ustte.
 
+## [2026-05-26] create | Faz 2 Closed Workflows
+
+- Workflow engine olusturuldu (workflows/engine.py, models.py)
+- SEO raporu template'i eklendi (workflows/templates/seo-report.yaml) — 3 adimli pipeline
+- Natural language cron scheduler eklendi (scheduler/parser.py, manager.py, routes.py)
+- Turkce zaman ifadeleri → cron expression (9 pattern: gunluk, haftalik, aylik, interval, vb.)
+- Router'a entegre edildi: GET /v1/workflows, POST /v1/workflows/{name}/run, POST /v1/schedule
+- APScheduler + croniter + pytz dependency'leri eklendi
+- VPS deploy: build + recreate basarili, endpoint'ler dogrulandi
+
 ## [2026-05-26] create | Hermes Router Faz 1
 
 - hermes-router/ servisi olusturuldu (router.py, intent.py, agents.py, config.yaml)
