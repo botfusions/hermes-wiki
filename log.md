@@ -2,6 +2,13 @@
 
 > Append-only zaman damgali olay kaydi. En yeni olay en ustte.
 
+## [2026-05-26] create | Hermes Router Faz 1
+
+- hermes-router/ servisi olusturuldu (router.py, intent.py, agents.py, config.yaml)
+- docker-compose.vps.yml'e router servisi eklendi (port 8699, router.turklawai.com)
+- Wiki sayfasi olusturuldu: entities/hermes-router.md
+- Faz 1: Temel Routing — API giris noktasi + intent detection + proxy
+
 ## [2026-05-26] create | Master gelisim plani + 5 kaynak arastirmasi
 
 - hermes-orchestrator-gelisim-plani.md olusturuldu (concepts/)

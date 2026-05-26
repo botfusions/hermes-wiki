@@ -35,6 +35,7 @@
 - [hermes-agent](entities/hermes-agent.md) — Temel Hermes Agent entity
 - [hermes-api](entities/hermes-api.md) — API entity ve endpoint'leri
 - [hermes-dashboard](entities/hermes-dashboard.md) — Dashboard service entity
+- [hermes-router](entities/hermes-router.md) — Faz 1 API routing servisi
 - [paperclip](entities/paperclip.md) — Paperclip entity ve özellikleri
 - [telegram-bot](entities/telegram-bot.md) — Telegram bot entity
 - [cmo-dashboard](entities/cmo-dashboard.md) — CMO Dashboard entity
