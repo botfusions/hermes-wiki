@@ -21,7 +21,10 @@ Günde **her 30 dakikada bir** (06:00 - 21:00 TSİ) taranır.
 | ~~7 | Sıfır Tıklama Stratejisi | Osman (28 May) | 42/50 | AI Overviews ve ChatGPT Search ile organik CTR düşüyor. Yeni hedef: Tık alamasan bile AI'ın "sözlüğünde" yer almak. ~~ |
 | ~~8 | ~~ByteDance 70 Milyar Dolar Yatırım~~ | Osman (29 May 06:00) | 8/10 | Tweet atıldı: https://x.com/botfusionss/status/2060194947207156060 |
 | ~~9 | ~~SEO'dan GEO'ya Geçiş~~ | Osman (28 May 13:00) | 9/10 | ~~Generative Engine Optimization geleneksel SEO'nun yerini alıyor. AI arama çağında markanı konumlandır.~~ |
-| ~~10 | AI Reklam Pazarı Patlaması | Osman (24 May) | 42/50 | $45.7B pazar, %28.3 CAGR, %60 maliyet düşüşü. Veri odaklı. ~~ |
+|| ~~10 | AI Reklam Pazarı Patlaması | Osman (24 May) | 42/50 | $45.7B pazar, %28.3 CAGR, %60 maliyet düşüşü. Veri odaklı. ~~ |
+| 11 | Google Ads Veri Silme | Osman (29 May 17:04) | 45/50 | Google Ads tarihi raporlama verilerini silmeye başladı. Veri arşivleme stratejisi şimdi kritik. |
+| 12 | AI B2B Pazarlama İş Kaybı | Osman (29 May 17:04) | 42/50 | B2B şirketlerinin %47'si AI nedeniyle pazarlama rollerini azaltmış. Yetenek dönüşümü şart. |
+| 13 | Ajanslar İçin 4 Kritik Ders | Osman (29 May 17:04) + syntez | 46/50 | 3 rapordan ajanslar için 4 kritik ders — veri arşiv, GEO, agentik workflow, AI pazarlamacı |
 
 ## İşlenmiş Konular
 

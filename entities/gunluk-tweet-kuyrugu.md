@@ -246,3 +246,13 @@
 **Durum:** [ ] Sirada - 21:53 TSI'de yayinlanacak
 **Link:** ---
 **Saat:** 2026-05-29 20:03 TSI (Ekrem cron - hazirlandi)
+
+---
+
+### Tweet 36: 3 Rapordan Ajanslar Icin 4 Kritik Ders - 2026 AI Stratejisi
+**Puan:** 91/100 🔥
+**Kaynak:** Osman raporu (2026-05-29-1704) + Google Cloud AI Agent Trends 2026 + Salesforce 8 Yol + Databricks State of AI Agents 2026 + Search Engine Land + MarTech
+**Durum:** [ ] Sirada — X API auth yok (_path değişti veya app silinmiş)
+**Link:** ---
+**Saat:** 2026-05-29 20:31 TSI (Ekrem cron hazirladi, atamadi)
+**Not:** xurl auth apps list bos — app kaydi silinmis veya HOME degistirilmis. Tweet 36 dosyasi: entities/ekrem-tweet-36-hazir.md

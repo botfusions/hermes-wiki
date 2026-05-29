@@ -75,3 +75,13 @@
 - **Görev 5 (Freshness):** Tüm ID'ler unique — tekrar yok
 - **Kuyruk:** 27 posted + 4 bekleyen (Tweets 28-31)
 - **Yorum dosyası:** 96 yorum hazır, manuel gönderim bekliyor
+
+## [2026-05-29] cron | Ekrem X ajani calismasi (20:31 TSİ)
+
+- **Durum:** X API auth yok — `xurl auth apps list` bos, app kaydi silinmis
+- **Görev 1 (Queue):** Tweet 35 hala kuyrukta (xurl auth olmadigi icin atilamadi)
+- **Görev 2 (Tarama):** Taraam yapilamadi — xurl auth yok (whoami 401)
+- **Görev 3 (Yeni Tweet):** Tweet 36 hazirlandi (91/100) — "3 Rapordan Ajanslar Icin 4 Kritik Ders" → entities/ekrem-tweet-36-havir.md
+- **Görev 4 (Havuz):** 3 yeni konu eklendi: Google Ads Veri Silme (45/50), AI B2B Pazarlama Is Kaybi (42/50), Ajanslar Icin 4 Kritik Ders (46/50)
+- **Kuyruk:** 34 posted + 3 bekleyen (Tweets 34 kuyrukta da, 35, 36)
+- **Aksiyon Gerekli:** xurl auth apps add ile botfusions app yeniden kaydedilmeli
