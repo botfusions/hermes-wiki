@@ -1,173 +1,229 @@
----
-title: Günlük Tweet Kuyruğu
-tags: [twitter, x, ekrem, tweet-kuyrugu, schedule]
-date: 2026-05-24
-status: active
-brain: A
----
-
 # Günlük Tweet Kuyruğu
+# Son güncelleme: 2026-05-29 12:04 TSİ (Ekrem cron — CREDITS HALA DEPLETED. Tweet atilamadi. LIKE/RT yapilamadi. Tweet 28-29-30 kuyrukta bekliyor. Multi-Agent Orchestration 2026 sentez tweet (90/100) kuyruga eklendi.)
+# [x] = gönderildi, [ ] = sırada
 
-@botfusionss hesabından atılacak tweet'lerin sıralı kuyruğu.
+## Bugünkü Tweetler
 
-## Kuyruk Yapısı
+### Tweet 1: GEO çağı — SEO dönüşüyor
+**Puan:** 87/100 ✅
+**Kaynak:** Osman raporu (2026-05-28-1300) + alexgroberman tweet'i
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2059969098365210949
+**Saat:** 2026-05-28 15:02 TSİ
 
-- `[ ]` = bekliyor
-- `[x]` = atıldı
-- Kaynak: nereden geldiği
-- Tip: infografikli mi metin mi
-- Puan: 0-100 skor
+### Tweet 2: Google SGE kitleselleşiyor — sıfır tıklamalı arama çağı
+**Puan:** 84/100 ✅
+**Kaynak:** Tweet havuzu Konu 1
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2059975125546525115
+**Saat:** 2026-05-28 15:27 TSİ
 
-## Kuyruk (en üstteki en önce atılır)
+### Tweet 3: ByteDance $70B AI yatırımı — AI savaşları kızışıyor
+**Puan:** 86/100 ✅
+**Kaynak:** Osman raporu (2026-05-28-1300) + Bloomberg
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2059983462652625296
+**Saat:** 2026-05-28 16:01 TSİ
 
-<!-- YENI TWEET'LER BURAYA EKLENIR. ATILANLAR [x] YAPILIR -->
+### Tweet 4: AI Agents Enterprise 2026 — Basit prompt'ların devri bitti
+**Puan:** 85/100 ✅
+**Kaynak:** Osman raporu (2026-05-28-1300) + Google Cloud AI Agent Trends 2026
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2059991183141580831
+**Saat:** 2026-05-28 16:32 TSİ
 
-- [x] Tweet (English, 150-200 chars)
-    - kaynak: osman-2026-05-26-1300 (Enterprise AI agent trends)
-    - tip: metin
-    - puan: 110
-    - atilan: https://x.com/botfusionss/status/2059244058300547394
+### Tweet 5: Qwen 3.6 397B iptal — Açık kaynak AI'nın kırılma noktası
+**Puan:** 82/100 ✅
+**Kaynak:** Osman raporu (2026-05-28-1300) + Reddit r/LocalLLaMA
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2059998616446542050
+**Saat:** 2026-05-28 17:00 TSİ
 
-- [ ] "/goal" ozelligi Hermes Agent'lar icin oyun degistirici. Kullanicinin surekli mudahalesi olmadan cok adimli gorevleri yerine getirebiliyorlar. Gelecegin otomasyonu tam olarak bu.
-    - kaynak: osman-2026-05-26-1300
-    - tip: metin
-    - puan: 85
+### Tweet 6: GEO çağı — SEO'dan GEO'ya geçişin 3 kritik farkı
+**Puan:** 83/100 ✅
+**Kaynak:** Osman raporu (2026-05-28-1300) + Contentful + Solutions Review + alexgroberman
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060006281277030913
+**Saat:** 2026-05-28 ~17:30 TSİ
 
-- [x] Fascinating developments in AI/agent frameworks! The "judge model" ensures seamless task execution by agents, transforming how we approach automation.
-    - kaynak: osman-2026-05-26-1300
-    - tip: metin
-    - puan: 70
-    - durum: skip (70 < 80)
+### Tweet 7: AI İçerik Paradoksu — Platformlar çelişkiyi yönetemiyor
+**Puan:** 86/100 ✅
+**Kaynak:** Tweet havuzu (AI İçerik Paradoksu — 45/50)
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060010447911215297
+**Saat:** 2026-05-28 ~14:47 TSİ
 
-- [ ] Coklu AI agent sistemlerinin potansiyelini kesfetmek heyecan verici. Birden fazla agent birlikte calisarak karmasik gorevleri kolaylikla halledebiliyor. Teknolojinin bir sonraki siniri tam olarak bu.
-    - kaynak: osman-2026-05-26-1300
-    - tip: metin
-    - puan: 85
+### Tweet 8: Enterprise AI Search ROI — %97 pozitif dönüş
+**Puan:** 88/100 ✅
+**Kaynak:** Tweet havuzu Konu 11 (alexgroberman Enterprise AI Search ROI)
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060013768445137043
+**Saat:** 2026-05-28 18:01 TSİ
 
+### Tweet 9: Google Mayıs 2026 Core Update — İlk 24 saat sinyalleri
+**Puan:** 90/100 🔥
+**Kaynak:** Osman raporu (2026-05-28-1300) + Tweet havuzu Konu 1 (Google Mayıs 2026 Core Update)
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060022496158441668
+**Saat:** 2026-05-28 18:35 TSİ
 
+### Tweet 10: Agentic AI: 2026'nın En Büyük Pazarlama Trendi
+**Puan:** 88/100 ✅
+**Kaynak:** Tweet havuzu Konu 2 (Agentic AI) + Google Cloud AI Agent Trends 2026 + Salesforce + Databricks
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060028911656804466
+**Saat:** 2026-05-28 19:02 TSİ
 
-- [x] Salesforce AI agent trendleri 2026: Deterministic guardrails, context engineering ve headless CRM erisimi öne cikiyor. AI agentler sadece prompt karsilamiyor — kompleks is akislarini yari-otonom yönetiyor. #EnterpriseAI #Salesforce #AIAgent
-    - kaynak: osman-2026-05-25-1300 (Salesforce AI trends)
-    - tip: metin
-    - puan: 82
-    - atilan: https://x.com/botfusionss/status/2059153621665604018
+### Tweet 11: 2026'da Dijital Pazarlamacı Olarak Hayatta Kalma Rehberi
+**Puan:** 91/100 🔥
+**Kaynak:** Tweet havuzu Konu 4 (2026 Hayatta Kalma Rehberi) + Osman raporu (2026-05-28-1300)
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060036828543991896
+**Saat:** 2026-05-28 19:31 TSİ
 
-- [x] Hermes Agent'in /goal ozelligini yogun kullandim ve önemli bir ders cikardim: /goal 'devam et' butonu degil. AI'in ne zaman isin bittigini anlayamadigi bir hedef tanimlarsaniz, sonsuz döngüye girer. Net, dogrulanabilir 'tamamlanma' kosullari sart. #AIAgent #HedefYonetimi
-    - kaynak: osman-2026-05-26-0600 (shannholmberg /goal lessons)
-    - tip: metin
-    - puan: 82
-    - atilan: https://x.com/botfusionss/status/2059198908220203336
+### Tweet 12: AI Kreatif Patlaması — 70 Milyon Varlık
+**Puan:** 84/100 ✅
+**Kaynak:** Tweet havuzu Konu 5 (AI Kreatif Patlaması: 70 Milyon Varlık)
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060044002770944027
+**Saat:** 2026-05-28 20:01 TSİ
 
-- [ ] /goal ozelliginin en kritik dersi: AI ajaniniz icin net bir "tamamlanma" durumu tanimlamazsaniz, ajan sonsuza dek calisir. Shann Holmber deneyimi gosteriyor ki iyi tanimlanmis hedef = basarili AI otonomisi. #AIGoals #HermesAgent
-    - kaynak: osman-2026-05-26-0600
-    - tip: metin
-    - puan: 85
+### Tweet 13: AI Ajanları vs Pazarlama Müdürü
+**Puan:** 85/100 ✅
+**Kaynak:** Tweet havuzu Konu 6 (AI Ajanları vs Pazarlama Müdürü)
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060051738338496648
+**Saat:** 2026-05-28 20:32 TSİ
 
+### Tweet 14: AI Reklam Pazarı Patlaması — $45.7B
+**Puan:** 86/100 ✅
+**Kaynak:** Tweet havuzu Konu 10 (AI Reklam Pazarı Patlaması) + Osman raporu
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060059422517297589
+**Saat:** 2026-05-28 21:00 TSİ
 
+### Tweet 15: Sıfır Tıklama Stratejisi — AI çağında yeni SEO
+**Puan:** 85/100 ✅
+**Kaynak:** Tweet havuzu Konu 7 (Sıfır Tıklama Stratejisi) + Osman raporu + alexgroberman + lilyraynyc
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060066811744297218
+**Saat:** 2026-05-28 21:30 TSİ
 
-- [x] Google Gemini 3.5 Flash resmen GA oldu! Frontier seviyesinde zeka, rakiplerinden 4 kat hizli. $1.50/$9 giriş/çıkış token fiyatlariyla en uygun maliyetli modellerden biri. Yapay zeka yarisi kizisiyor, Google pesmi birakmiyor. #Gemini #GoogleAI #yapayzeka
-    - kaynak: osman-2026-05-25-1300 (Gemini 3.5 Flash)
-    - tip: metin
-    - puan: 84
-    - atilan: https://x.com/botfusionss/status/2058974214409908414
+### Tweet 16: ByteDance $70B AI Yatırımı
+**Puan:** 89/100 ✅
+**Kaynak:** Osman raporu (2026-05-29-0600) + Bloomberg
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060194947207156060
+**Saat:** 2026-05-29 06:00 TSİ (Ekrem cron)
 
-- [x] Salesforce AI agent trendleri 2026: Deterministic guardrails, context engineering ve headless CRM erisimi öne cikiyor. AI agentler sadece prompt karsilamiyor — kompleks is akislarini yari-otonom yönetiyor. #EnterpriseAI #Salesforce #AIAgent
-    - kaynak: osman-2026-05-25-1300 (Salesforce AI trends)
-    - tip: metin
-    - puan: 82
-    - atilan: https://x.com/botfusionss/status/2059153621665604018
+### Tweet 17: GEO çağı — SEO dönüşmüyor, yeni bir şeye evriliyor
+**Puan:** 86/100 ✅
+**Kaynak:** Osman raporu (2026-05-29-0600) + Solutions Review + Contentful
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060202335142351127
+**Saat:** 2026-05-29 06:30 TSİ (Ekrem cron)
 
-- [x] (duplicate — yukarida atildi, skip)
+### Tweet 18: AI Ajanları 2026 — Google Cloud AI Agent Trends analizi
+**Puan:** 85/100 ✅
+**Kaynak:** Osman raporu (2026-05-29-0600) + Google Cloud AI Agent Trends 2026
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060209993647821283
+**Saat:** 2026-05-29 07:00 TSİ (Ekrem cron)
 
-- [x] Hermes Agent'in yeni '/goal' ozelligini kesfet. Bir hedef belirle, AI tamamlanana veya butce bitene kadar otonom calissin. #AI #otomasyon
-    - kaynak: osman-2026-05-25-1300
-    - tip: metin
-    - puan: 110
-    - atilan: https://x.com/botfusionss/status/2058880923232268418
+### Tweet 19: SEO'dan GEO'ya — AI arama çağında hayatta kalma stratejisi
+**Puan:** 86/100 ✅
+**Kaynak:** Osman raporu (2026-05-29-0600) + Contentful + Solutions Review + alexgroberman
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060210578187043075
+**Saat:** 2026-05-29 07:10 TSİ (Ekrem cron)
 
-- [x] (English kopyasi — Turkcesi yukarida atildi, skip)
-    - kaynak: osman-2026-05-25-1300
-    - tip: metin
-    - puan: 80
-    - durum: skip (Turkce versiyonu atildi)
+### Tweet 20: Google Mayıs 2026 Core Update — Derinlemesine analiz
+**Puan:** 85/100 ✅
+**Kaynak:** Tweet havuzu Konu 1 (Google Mayıs 2026 Core Update) + Lily Ray verisi + Ekrem analizi
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060225572370788689
+**Saat:** 2026-05-29 08:01 TSİ (Ekrem cron)
 
-- [x] Insanlar cami sevmez ama HTML'de cam havali oluyor. Teknoloji farki yaratiyor! @swyx'in bu gozlemi, UI trendlerinde context'in ne kadar onemli oldugunu gosteriyor. #HTML #glass #teknoloji
-    - kaynak: osman-2026-05-25-1300 (iyilestirildi)
-    - tip: metin
-    - puan: 85
-    - atilan: https://x.com/botfusionss/status/2058926990074286580
+### Tweet 21: LLM Changelog Çılgınlığı — 2026'da modele yetişmek
+**Puan:** 88/100 ✅
+**Kaynak:** Osman raporu (2026-05-29-0600) + LLM-Stats + Artificial Analysis
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060232593161736631
+**Saat:** 2026-05-29 08:30 TSİ (Ekrem cron)
 
-- [x] @swyx ile AI'in genis dunyasini kesfedin. @aidotengineer'dan @latentspacepod'a kadar yolculuk dolu dolu geciyor. #AI #inovasyon
-    - kaynak: osman-2026-05-25-1300
-    - tip: metin
-    - puan: 90
-    - atilan: https://x.com/botfusionss/status/2058926399386226842
+### Tweet 22: Salesforce 8 Yol — Kurumsal AI Ajanlarının 2026 Dönüşümü
+**Puan:** 89/100 ✅
+**Kaynak:** Osman raporu (2026-05-29-0600) + Salesforce AI Agent Trends 2026
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060240506949439917
+**Saat:** 2026-05-29 09:01 TSİ (Ekrem cron)
 
-- [x] AI agentler gibi gunluk teknolojiler gorevlerimize yaklasimimizi nasil degistiriyor? /goal ozelliginin etkilerini konusalim. #AIGunlukHayat #goalagents
-    - kaynak: osman-2026-05-25-1300
-    - tip: metin
-    - puan: 80
-    - atilan: https://x.com/botfusionss/status/2058926452980986167
+### Tweet 23: Kurumsal AI Ajanları — 2026 Dönüşümü
+**Puan:** 89/100 ✅
+**Kaynak:** Osman raporu (2026-05-29-0600) + Databricks State of AI Agents 2026 + Google Cloud AI Agent Trends
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060248048148598889
+**Saat:** 2026-05-29 09:30 TSİ (Ekrem cron)
 
-- [x] Artik AI'ya her adimda ne yapacagini soylemek zorunda degilsiniz. Hedeflerinizi anlayan ve surekli gozetim olmadan harekete gecen AI agentlar. Otomasyonun gelecegine hos geldiniz. #AI #gelecekteknoloji
-    - kaynak: osman-2026-05-25-1300 (iyilestirildi)
-    - tip: metin
-    - puan: 85
-    - atilan: https://x.com/botfusionss/status/2058926741238812978
+### Tweet 24: Qwen 3.6 397B İptali — Açık Kaynak AI'nın Kârlılık Krizi
+**Puan:** 88/100 ✅
+**Kaynak:** Osman raporu (2026-05-29-0600) + r/LocalLLaMA + LLM-Stats
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060255955762176242
+**Saat:** 2026-05-29 10:01 TSİ (Ekrem cron)
 
-- [x] AI agentiniz saatlerce bir hedefin pesinden gidebilseydi — siz tek bir sey yapmadan? Hermes Agent'in /goal ozelligi tam olarak bunu yapiyor.
-    - kaynak: osman-2026-05-25-1025
-    - tip: metin
-    - puan: 110
-    - atilan: https://x.com/botfusionss/status/2058926561533825405
+### Tweet 25: AI Aramanın Yeni Sınırı — ChatGPT Trafik Rehberi ve AEO Çağı
+**Puan:** 86/100 ✅
+**Kaynak:** Osman raporu (29 May) + alexgroberman (MS ChatGPT Guide) + lilyraynyc (AIO 86%) + Kevin_Indig (AEO)
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060263177724531189
+**Saat:** 2026-05-29 10:33 TSİ (Ekrem cron)
 
-- [x] AI otonomisinde heyecan verici gelisme! @shannholmberg Hermes Agent icin /goal ozelligini paylasti. AI agentler gorevleri tamamlanana kadar kendi kendine yurutuyor. #AI #OtonomAgentler
-    - kaynak: osman-2026-05-25-1025
-    - tip: metin
-    - puan: 80
-    - atilan: https://x.com/botfusionss/status/2058926507725082780
+### Tweet 26: LLM Dünyasında Son 24 Saat — Anthropic, ByteDance, Qwen, Salesforce
+**Puan:** 92/100 🔥
+**Kaynak:** Osman raporu (29 May 06:00) + AnthropicAI + ByteDance/Bloomberg + Salesforce + Databricks + r/LocalLLaMA
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060270656122393040
+**Saat:** 2026-05-29 11:01 TSİ (Ekrem cron)
 
-- [x] Hermes Agent'in /goal ozelligi: AI, belirlediginiz hedefi yilmadan takip ediyor. Bir yargic model ilerlemeyi kontrol ediyor, gorev tamamlanana veya duraklatilana kadar devam ediyor. Bu, AI verimliligini yeniden tanimlayabilir! #AIGoals #AIinovasyon
-    - kaynak: osman-2026-05-25-1025 (iyilestirildi)
-    - tip: metin
-    - puan: 85
-    - atilan: https://x.com/botfusionss/status/2058926804119814429
+### Tweet 27: AI Dünyasında Son 24 Saat — 4 Büyük Sinyal
+**Puan:** 89/100 ✅
+**Kaynak:** AnthropicAI + lilyraynyc (AIO %86) + alexgroberman (MS ChatGPT Guide + Opus 4.8) + Kevin_Indig (AEO)
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060279485816029682
+**Saat:** 2026-05-29 11:32 TSİ (Ekrem cron)
 
-- [x] AI dunyasinda kaynak yonetimi cok kritik. @shannholmberg'in Hermes Agent guncellemesi, token butcelerinin gorev yurutmeyi nasil kontrol ettigini gosteriyor. Daha verimli AI operasyonlari icin onemli bir adim. #AIKaynakYonetimi #TokenEkonomisi
-    - kaynak: osman-2026-05-25-1025 (iyilestirildi)
-    - tip: metin
-    - puan: 85
-    - atilan: https://x.com/botfusionss/status/2058926871027257446
+### 🕐 Kuyrukta Bekleyen (X API Kredisi Bekleniyor)
 
-- [x] Hermes Agent ve /goal ozelligi beni cok etkiledi. Bir hedef belirleyin, AI kendi kendine calissa ve bitirene kadar durmasin! #AI #OtonomHedef
-    - kaynak: osman-2026-05-25-1003
-    - tip: metin
-    - puan: 80
-    - atilan: https://x.com/botfusionss/status/2058926615397056927
+### Tweet 28: AI Ajanları 2026 — Basit Prompt Devri Bitti (Kuyrukta — Kredi bekliyor)
+**Puan:** 89/100 ✅
+**Kaynak:** Osman raporu (2026-05-29-1303) + Google Cloud AI Agent Trends 2026 + alexgroberman Enterprise AI Search ROI
+**Durum:** [ ] Kuyrukta — X API kredisi bekliyor
+**Hazır:** /tmp/tweet_ai_agent_2026.txt
+**Saat:** Hazırlandı 2026-05-29 13:03 TSİ
 
-- [x] "The '/goal' feature of Hermes Agent is groundbreaking. Assign a task, and it's like having a personal AI assistant that won't stop until it's done. #HermesAgent #AIInnovation"
-    - kaynak: osman-2026-05-25-1003
-    - tip: metin
-    - puan: 90
+### Tweet 29: Google Cloud AI Agent Trends 2026 — Basit Prompt Devri Bitti (Kuyrukta — Kredi bekliyor)
+**Puan:** 90/100 🔥
+**Kaynak:** Osman raporu (2026-05-29-1303) + Google Cloud AI Agent Trends 2026 + Salesforce + Databricks + Ekrem analizi
+**Durum:** [ ] Kuyrukta — X API kredisi bekliyor
+**Hazır:** /tmp/tweet_ai_agent_google_cloud.txt
+**Saat:** Hazırlandı 2026-05-29 14:00 TSİ (Ekrem cron)
 
-- [x] Hermes Agent'in surekli gorev calistirma ozelligini yeni ogrendim. AI'nin gelecegi bu: gorevler sadece baslatilmiyor, ayni zamanda tamamlanana kadar takip ediliyor. #ContinuousAI #HermesAgent
-    - kaynak: osman-2026-05-25-1003 (iyilestirildi)
-    - tip: metin
-    - puan: 85
-    - atilan: https://x.com/botfusionss/status/2058926932423541171
-
-- [x] Kullanicilarin %65i artik arama sonuclarina tiklamiyor. AI Overviews, Google SGE ve ChatGPT dogrudan cevap veriyor. Sitenize sifir tiklama geliyor. Peki bu trafik canavarini nasil markaniza yonlendirirsiniz? Ite "Zero Click" dunyasinda hayatta kalmanin 5 stratejisi...
-    - kaynak: google-sheets-hermes-x-row4
-    - tip: metin
-    - puan: 90
-    - atilan: https://x.com/botfusionss/status/2058791415446950302
-
-- [x] AI agentler 2026'da pazarlama ekiplerinin yerini almayacak, onları 10x'leyecek. İşte 3 somut örnek: Claude Code ile A/B test, Perplexity ile rakip analizi, ChatGPT ile içerik stratejisi. Sen hangisini kullanıyorsun?
-    - kaynak: manuel-test
-    - tip: metin
-    - puan: 88
-    - atilan: https://x.com/botfusionss/status/2058613526336340036
-
-## Atılan Tweet'ler
-
-Atılan tweet'ler silinmez, `[x]` ile işaretlenir. Gün sonunda archive'a taşınır.
+### Tweet 30: Multi-Agent Orchestration 2026 — 3 Raporun Kesiştiği Nokta
+**Puan:** 90/100 🔥
+**Kaynak:** Osman raporu (2026-05-29-1303) + Google Cloud AI Agent Trends 2026 + Salesforce AI Agent Trends 2026 + Databricks State of AI Agents 2026
+**Durum:** [ ] Kuyrukta — X API kredisi bekliyor
+**Hazır:** /tmp/tweet_multi_agent_orchestration.txt
+**Saat:** Hazırlandı 2026-05-29 12:04 TSİ (Ekrem cron)
+### Tweet 31: Databricks State of AI Agents 2026 — 4 Çarpıcı Bulgu
+**Puan:** 88/100 ✅
+**Kaynak:** Osman raporu (2026-05-29-1303) + Databricks State of AI Agents 2026 + Ekrem analizi
+**Durum:** [ ] Kuyrukta — X API kredisi bekliyor
+**Hazır:** /tmp/tweet_databricks_agents.txt
+**Saat:** Hazırlandı 2026-05-29 15:30 TSİ (Ekrem cron)
+### Tweet 32: 3 Raporun Kesiştiği Nokta — Google Cloud, Salesforce, Databricks
+**Puan:** 91/100 🔥
+**Kaynak:** Osman raporu (2026-05-29-1303) + Google Cloud AI Agent Trends 2026 + Salesforce AI Agent Trends 2026 + Databricks State of AI Agents 2026 + ByteDance $70B
+**Durum:** [ ] Kuyrukta — X API kredisi bekliyor
+**Hazır:** /tmp/tweet_3_rapor_sentez.txt
+**Saat:** 2026-05-29 16:00 TSİ (Ekrem cron)
