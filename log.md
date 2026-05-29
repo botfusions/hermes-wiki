@@ -2,6 +2,14 @@
 
 > Append-only zaman damgali olay kaydi. En yeni olay en ustte.
 
+## [2026-05-29 18:03] cron | Ekrem X Ajani — 29 May 18:00
+
+- **Tweet 33:** AI Yönetişimi 2026 (88/100 🔥) — Databricks + Google Cloud + Salesforce sentezi
+- **3 LIKE:** alexgroberman (AI 42% ROI), nateherk (10x AI OS), alexgroberman (MS ChatGPT Guide)
+- **1 REPOST:** shannholmberg (Hermes Agent specialist design)
+- **3 yorum hazırlandı:** shannholmberg (#100), nateherk (#101), alexgroberman (#102)
+- Queue güncellendi, header refresh
+
 ## [2026-05-26] create | Faz 2 Closed Workflows
 
 - Workflow engine olusturuldu (workflows/engine.py, models.py)
@@ -57,3 +65,13 @@
 - Rapor: 2026-05-24-1749-gundem.md
 - Havuz: 7 yeni fikir eklendi
 - One cikan: Google May 2026 Core Update, Agentic AI, AI Kreatif Patlamasi
+## [2026-05-29] cron | Ekrem X ajani calismasi (15:30 TSİ) — CreditsDepleted
+
+- **Durum:** X API kredisi bitik — tüm xurl işlemleri bloke (whoami çalıştı)
+- **Görev 1 (Queue):** Tweet 28 post edilemedi — kuyrukta bekliyor
+- **Görev 2 (Tarama):** 12 hesap taranamadı — kredi yok
+- **Görev 3 (Yeni Tweet):** Databricks State of AI Agents tweet'i hazırlandı (88/100) → kuyruğa eklendi (Tweet 31)
+- **Görev 4 (Yorum):** 2 yeni yorum hazırlandı (#95 ModestMitkus, #96 NousResearch)
+- **Görev 5 (Freshness):** Tüm ID'ler unique — tekrar yok
+- **Kuyruk:** 27 posted + 4 bekleyen (Tweets 28-31)
+- **Yorum dosyası:** 96 yorum hazır, manuel gönderim bekliyor

@@ -1,5 +1,5 @@
 # Günlük Tweet Kuyruğu
-# Son güncelleme: 2026-05-29 16:42 TSİ (Ekrem cron — ✅ KREDİ AKTİF. Tweet 28-29-30 atıldı. 5 LIKE + 1 RT yapıldı. Kuyruk boş — sonraki cron'da havuzdan yeni konu seçilecek..)
+# Son güncelleme: 2026-05-29 20:03 TSİ (Ekrem cron — ✅ Tweet 35 queue'ya eklendi (90/100, sırada). 3 LIKE + 2 REPOST yapıldı. 2 yeni yorum hazır (106-107).)
 # [x] = gönderildi, [ ] = sırada
 
 ## Bugünkü Tweetler
@@ -227,3 +227,22 @@
 **Durum:** [x] Gönderildi ✅
 **Link:** https://x.com/botfusionss/status/2060356866945823094
 **Saat:** 2026-05-29 16:46 TSİ (Ekrem cron)
+
+### Tweet 33: AI Yönetişimi 2026 — Agent'lar Çoğaldıkça Karmaşa Büyüyor
+**Puan:** 88/100 ✅
+**Kaynak:** Osman raporu (2026-05-29-1303) + Databricks State of AI Agents 2026 + Google Cloud AI Agent Trends 2026 + Salesforce
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060376759724306460
+**Saat:** 2026-05-29 18:03 TSİ (Ekrem cron)
+### Tweet 34: Enterprise AI Governance 2026 — 3 Rapordan Ortak Çıkarım
+**Puan:** 92/100 🔥
+**Kaynak:** Osman raporu (2026-05-29-1303) + Google Cloud AI Agent Trends 2026 + Salesforce 8 Yol + Databricks State of AI Agents 2026 + ByteDance $70B + Anthropic $965B
+**Durum:** [x] Gönderildi ✅
+**Link:** https://x.com/botfusionss/status/2060404242448343310
+**Saat:** 2026-05-29 19:53 TSİ (Ekrem cron)
+### Tweet 35: 3 Rapordan Ajanslar Icin 4 Kritik Ders - 2026 AI Stratejisi (Kuyrukta - 21:53 TSI'de yayinlanacak)
+**Puan:** 90/100 🔥
+**Kaynak:** Osman raporu (2026-05-29-1303) + Google Cloud AI Agent Trends 2026 + Salesforce 8 Yol + Databricks State of AI Agents 2026 + ByteDance $70B + Anthropic $965B
+**Durum:** [ ] Sirada - 21:53 TSI'de yayinlanacak
+**Link:** ---
+**Saat:** 2026-05-29 20:03 TSI (Ekrem cron - hazirlandi)

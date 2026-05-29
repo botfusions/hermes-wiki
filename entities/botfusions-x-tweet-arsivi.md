@@ -97,3 +97,25 @@ brain: A
 | 1 | | 🖼️ AI modelleri, “bence” gibi belirsiz ifadeleri gördüğünde içe... | - | - | - | [x.com](https://x.com/botfusionss/status/2059200173754986977) |
 || 2 | | 🖼️ Web siteniz yapay zeka tarafından "okunuyor" mu, yoksa sadec... | - | - | - | [x.com](https://x.com/botfusionss/status/2059228595357163566) |
 || 3 | | Kurumsal AI agentlar 2026 — Google Cloud ve Salesforce trendleri | 93🔥 | - | - | [x.com](https://x.com/botfusionss/status/2059244058300547394) |
+|| 4 | | AI ajanları 2026 — laboratuvardan üretime: Google Cloud, Salesforce, Deloitte analizi | 110🔥 | - | - | [x.com](https://x.com/botfusionss/status/2059515660925907063) |
+
+## 2026-05-27
+27 May 2026 — Wednesday
+
+| # | Tweet | Skor | Impression | Likes | Link |
+|---|-------|:----:|:----------:|:-----:|------|
+| 1 | | 🖼️ AI çağında anonim içerik artık ölü bir konsept. Google’ın He... | - | - | - | [x.com](https://x.com/botfusionss/status/2059560715380289894) |
+| 2 | | 🖼️ AI asistanların yanıtlarını şekillendiren iki kritik yapı va... | - | - | - | [x.com](https://x.com/botfusionss/status/2059590907112968287) |
+
+## 2026-05-28
+28 May 2026 — Thursday
+
+| # | Tweet | Skor | Impression | Likes | Link |
+|---|-------|:----:|:----------:|:-----:|------|
+| 1 | | 🖼️ AI modelleri, tıpkı bir gazeteci gibi kaynağın ne zaman yayı... | - | - | - | [x.com](https://x.com/botfusionss/status/2059922900648411277) |
+| 2 | | 🖼️ Eski Yunanca'da "Gê" yani Toprak Ana'dan doğan bu iki hece,... | - | - | - | [x.com](https://x.com/botfusionss/status/2059953201852379482) |
+|| 3 | | SEO'dan GEO'ya dönüşüm — AI asistan çağında marka görünürlüğü | 87✅ | - | - | [x.com](https://x.com/botfusionss/status/2059969098365210949) |
+| 4 | | Google SGE kitleselleşiyor — sıfır tıklamalı arama çağı | 84✅ | - | - | [x.com](https://x.com/botfusionss/status/2059975125546525115) |
+| 5 | | ByteDance $70B AI yatırımı — AI savaşları kızışıyor | 86✅ | - | - | [x.com](https://x.com/botfusionss/status/2059983462652625296) |
+| 6 | | AI Agents Enterprise 2026 — Basit prompt'ların devri bitti | 85✅ | - | - | [x.com](https://x.com/botfusionss/status/2059991183141580831) |
+| 7 | | LLM Dünyasında Son 24 Saat | 92🔥 | - | - | [x.com](https://x.com/botfusionss/status/2060270656122393040) |
