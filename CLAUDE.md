@@ -143,6 +143,17 @@ Her guncelleme cok dosyalidir:
 
 Asla tek noktaya boca etme. Capraz-referanslari iki yonlu yap.
 
+## 🔗 Wiki Repository Kuralı (TAŞA KAZINMIŞ)
+
+**Tüm wiki üretimi (rapor, karar, sentez, not, her şey) yalnızca `botfusions/hermes-wiki.git` repo'su üzerinden yapılır.**
+
+- **Ana repo (PC sync)**: `https://github.com/botfusions/hermes-wiki.git`
+- **Lokaldeki yol**: `/opt/data/wiki/Hermes_Agent/` (iç repo, PC'ye senkronize)
+- **üst düzey `/opt/data/wiki/`** (`sandaluci88/asistans_hermes`): Artık ana depo olarak kullanılmaz
+- **Her rapor, karar, sentez, döküman** `Hermes_Agent/` içindeki ilgili alt klasöre yazılır
+- Yazılan dosyalar `git push origin master` ile remote'a itilir → PC'deki Obsidian vault otomatik senkronize olur
+- Tüm agent'lar bu kurala göre çalışır — repo dışına wiki yazılmaz
+
 ## Hard Rules
 
 1. **raw/ ASLA degistirilmez** — ham kaynaklar dokunulmazdir
